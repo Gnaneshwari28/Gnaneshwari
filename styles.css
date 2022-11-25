@@ -1,0 +1,99 @@
+
+body{
+    background-color: black;
+}
+.div1{
+    height: 450px;
+    width: 450px;
+    float: left;
+    background-color:black;
+    border-radius: 50%;
+}
+.div2{
+    width:750px;
+    height:350px;
+    float: left;
+}
+.div3{
+    padding-top: 20px; 
+    width:600px;
+    height:250px;
+    float: right;
+    background-color:black;
+}
+.divide{
+    width:1300px;
+    margin:0 auto;
+}
+li{
+    color:rgb(2, 255, 2);
+}
+.left{
+    float:left;
+    width:650px;
+}
+.right{
+    float:right;
+    width:650px;
+}
+a:link {
+     color:#1be6ba;
+     text-decoration: none;
+     }
+a:visited {
+    color: green;
+     text-decoration: none;
+     }
+a:hover { 
+    color:rgb(79, 185, 204);
+    text-decoration: none;
+ }
+a:active {
+    color:rgb(43, 43, 148);
+     text-decoration: none;
+     }
+ .space{
+        line-height: 5pt;
+    }
+ .space1{
+        line-height: 40pt;
+    }
+h1{
+    color:aliceblue;
+     font-size: 70px;
+     font-weight:bold;
+    
+}
+h2{
+    color:aliceblue;
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3{
+    color:aliceblue;
+    font-size: 20px;
+}
+h4{
+    color:aliceblue;
+}
+.skill{
+    padding-top: 10px; 
+    padding-bottom: 10px;
+    color: white; 
+  }
+  .container {
+    display: flex;
+    width: 40%; 
+    background-color:white; 
+
+  }
+.html { width: 95%; background-color: #e9e76a;} 
+.css { width: 90%; background-color: #2196F3;} 
+.js { width: 80%; background-color: #526d93;}
+
+.lang{
+    width: 30%;
+    background-color: #ddd; 
+}
+.C {width: 95%; background-color: #dff51b;} 
+.Java {width: 95%; background-color: #1be6ba;} 
